@@ -1,0 +1,12 @@
+{
+  "name": "rem-likesfishysituations",
+  "version": "1.2.10",
+  "description": "Math Hub",
+  "license": "MIT",
+  "files": [
+    "**/*"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
